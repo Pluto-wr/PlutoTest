@@ -1,0 +1,6 @@
+INFO -- 2020-12-05 01:38:34,721 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO -- 2020-12-05 01:39:17,250 - django.utils.autoreload - E:\myself\PlutoTest\PlutoTest\settings.py changed, reloading.
+INFO -- 2020-12-05 01:39:19,761 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO -- 2020-12-05 01:40:29,379 - django.utils.autoreload - E:\myself\PlutoTest\PlutoTest\settings.py changed, reloading.
+INFO -- 2020-12-05 01:40:31,905 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO -- 2020-12-05 01:44:47,559 - django.utils.autoreload - E:\myself\PlutoTest\PlutoTest\settings.py changed, reloading.
